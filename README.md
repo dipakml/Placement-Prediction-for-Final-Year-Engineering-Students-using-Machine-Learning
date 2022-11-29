@@ -1,6 +1,6 @@
 ## End-to-End Machine Learning Project- Placement Prediction for Final Year Engineering Students using Machine Learning
 
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/PL-Eligibility-Calc.png" width=600>
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/ds1.PNG" width=1600>
 
 ### Table of Content
   * [Overview](#overview)
