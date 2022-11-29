@@ -6,7 +6,6 @@
   * [Overview](#overview)
   * [Dataset Information](#dataset)
   * [Motivation](#motivation)
-  * [Demo](#demo)
   * [Steps in the project execution](#Learning-Objective)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
@@ -37,15 +36,6 @@ Dataset used in this project can be found here : [Dataset](https://www.kaggle.co
 The motivation was to use machine learning experiments to predict whether sudent will get placed in campus placement.
 
 Idea is to implement the end to end machine learning project while using free deployment platform like Heroku.
-
-
-
-### Demo
-[Visit this link for Web application](https://loanwebapp7.herokuapp.com/)
-
-Web application Snapshot:
-
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/cp1.PNG" width=800>
 
 
 
