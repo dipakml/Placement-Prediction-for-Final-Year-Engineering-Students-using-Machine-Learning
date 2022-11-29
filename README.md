@@ -30,7 +30,7 @@ In this project, let's apply machine learning techniques and develop a web based
 
 
 
-Dataset used in this project can be found here : [Dataset] https://www.kaggle.com/datasets/tejashvi14/engineering-placements-prediction?datasetId=1565495&sortBy=voteCount
+Dataset used in this project can be found here : [Dataset](https://www.kaggle.com/datasets/tejashvi14/engineering-placements-prediction datasetId=1565495&sortBy=voteCount)
 
 
 ### Motivation
@@ -45,7 +45,7 @@ Idea is to implement the end to end machine learning project while using free de
 
 Web application Snapshot:
 
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/webapp_snapshot.png" width=800>
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/cp1.PNG" width=800>
 
 
 
